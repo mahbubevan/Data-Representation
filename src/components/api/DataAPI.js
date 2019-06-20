@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import DataTable from './../layouts/DataTable';
 import {Spinner} from 'reactstrap';
 
+
 class DataAPI extends Component{
     constructor(props){
         super(props)
